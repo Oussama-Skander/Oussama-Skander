@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Oussama-Skander](github.com/Oussama-Skander)
 
-- 📝 I regulary write articles on [https://oussa-skan1992.medium.com](https://oussa-skan1992.medium.com/)
+- 📝 I regulary write articles on [oussa-skan1992.medium.com](https://oussa-skan1992.medium.com/)
 
 - 💬 Ask me about **react, angular, Js**
 
