@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussama-skander" alt="oussama-skander" /></a> </p>
 
-- 🔭 I’m currently working on [Suicide Squad Rbkc5](https://github.com/suicide-squad-c5/Jippi_v2)
+- 🔭 I’m currently working on [Suicide Squad RBK-C5](https://github.com/suicide-squad-c5/Jippi_v2)
 
 - 🌱 I’m currently learning **JavaScript, React, Angular, Sql, NodeJs, MongooseJs**
 
